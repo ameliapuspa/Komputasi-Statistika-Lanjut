@@ -1,1 +1,1 @@
-# Komputasi-Statistika-Lanjut
+# Komputasi Statistika Lanjut
